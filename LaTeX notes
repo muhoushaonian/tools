@@ -1,0 +1,10 @@
+在shareLaTeX.com 网站上支持中文方法：
+    使用包加上一行 ： \usepackage{CJKutf8}
+    在document处做如此改动： 
+               \begin{doocument}
+               \begin{CJK*}{UTF8}{gbsn}
+               
+               
+               \end{CJK*}
+               \end{document}
+                                                      update in 2018/8/28
